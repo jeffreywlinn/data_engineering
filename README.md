@@ -12,4 +12,4 @@ Python notebooks cleaning GitHub event archive data. Scalable code preserving as
 #
 PROJECT 3:
 #
-Python notebooks used in Apache Spark for cleaning batch and streaming weather data streams into an AWS S3 bucket. Data was processed through bronze, silver, and gold layers to AWS Redshift for further analysis and AWS Quicksight for data visualization.
+Python notebooks used in Apache Spark and AWS Lambda for cleaning batch and streaming weather data streams into an AWS S3 bucket. Data was processed through bronze, silver, and gold layers to AWS Redshift for further analysis and AWS Quicksight for data visualization.

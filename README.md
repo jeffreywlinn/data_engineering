@@ -6,13 +6,9 @@ PROJECT 1:
 #
 Python notebooks for cleaning and writing to csv files. Cleaned US Customer and Border Patrol shipping data for a use case. Created data lake with bronze, silver and gold layers. Postgres PGAdmin4 for the data warehouse. Data partitioned by year. 
 #
-#
-#
 PROJECT 2:
 #
 Python notebooks cleaning GitHub event archive data. Scalable code preserving as much of the original information as possible. Targeted insights and aggregations for event types, messages, and language detection.
-#
-#
 #
 PROJECT 3:
 #
